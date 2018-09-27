@@ -1,0 +1,7 @@
+Parameters:
+- table
+- series
+- values
+Settings:
+  Metadata:
+    Owner: rwaters@periscopedata.com
