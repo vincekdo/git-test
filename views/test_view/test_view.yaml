@@ -1,5 +1,5 @@
 Database Name: demo
 Settings:
-  Materialize View: true
+  Materialize View: false
   Metadata:
     Owner: vincent@periscopedata.com
